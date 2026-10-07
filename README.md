@@ -18,9 +18,7 @@ Pour faire fonctionner le code, vous aurez besoin de la librairie suivante et vo
   * [Bounce2](https://github.com/thomasfredericks/Bounce2)
 
 ### 4. Compiler le code
-Sélectionnez la bonne carte, puis compilez le programme.
-
-![Capture d’écran de l’Arduino IDE pour compiler le programme](screen_arduino_compile.png)
+Sélectionnez "Arduino UNO", puis compilez le programme.
 
 ### 5. Jouer
 Si la compilation s’est passée sans erreur, vous devriez pouvoir jouer au jeu du Simon ! Appuyez sur le bouton situé sous la LED bleue pour commencer la partie.
