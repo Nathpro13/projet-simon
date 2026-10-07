@@ -24,7 +24,6 @@ Ce projet entier a été écrit à la main, par moi, Théo Läderach, avec uniqu
 | Résistances       | GND   | Réduire la tension des LED pour les préserver                                                   |
 | Buzzer            | 7     | Produire un son en même temps qu’une LED s’allume                                               |
 
-![Schéma électronique](./schemaa_electronique.png)
 
 ## Comment je me suis pris pour créer ce projet
 
